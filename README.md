@@ -1,2 +1,1 @@
-# myalldotfiles
-My all dotfiles
+# My all configurations for rice 
