@@ -16,8 +16,10 @@ Theme: catppuccin for vscode
 <br> Ico theme: material icons theme<br>
 ## KDE Plasma Customization
 General font: Monospace<br>
-Window Decoration: Win120S-Nord Small Buttons<br>
+Window Decoration: Win120S-Nord (Small Buttons)<br>
 Colors: Catppuccin Frappe Flamingo<br>
 Icon Theme: oomox-catppuccin-frappe <br>
 Plasma Style: scratchy<br>
+Wallpaper: https://raw.githubusercontent.com/umutdenizpro/myalldotfiles/main/wallpaper.jpg <br>
 Addition:<br>
+To align icons to center, add a space to panel.
