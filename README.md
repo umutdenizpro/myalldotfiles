@@ -1,5 +1,6 @@
 # My all configurations for theme
-General Requirements: Code new roman nerd font
+General Requirements: Code new roman nerd font<br>
+I use wallpaper.jpg to main wallpaper.
 ## .zshrc:
 zsh-syntax-highlighing extension for highlighting input(optional)
 <br>
