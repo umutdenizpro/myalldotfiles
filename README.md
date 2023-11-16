@@ -1,4 +1,5 @@
 # My all configurations for theme
+General Requirements: Code new roman nerd font
 ## .zshrc:
 zsh-syntax-highlighing extension for highlighting input(optional)
 <br>
